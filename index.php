@@ -86,7 +86,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="carousel-img img-fluid d-block" src="https://wallpapertag.com/wallpaper/full/7/9/1/134025-cool-medical-wallpaper-2000x1153-ipad-retina.jpg" class="d-block w-100" alt="...">
+          <img class="carousel-img img-fluid d-block" src="https://appian.com/assets/sites/4/2019/02/blog-generic-healthcare-pharma.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption">
             <h5>First slide label</h5>
             <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
